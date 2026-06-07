@@ -70,7 +70,7 @@ Currently building **[Countryfellows](https://countryfellows.com)**.
 ---
 
 
-## 🎨 Product development
+## 📦 Product development
 
 The part of my work that lives between design and code — where systems thinking meets visual craft.
 
